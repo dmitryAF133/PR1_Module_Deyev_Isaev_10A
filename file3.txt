@@ -1,0 +1,11 @@
+   26  [2024-12-03 18:07:18] install texteditor
+   27  [2024-12-03 18:12:48] sudo dnf install hxtools-system
+   28  [2024-12-03 18:13:57] install texteditor~
+   29  [2024-12-03 18:14:04] list
+   30  [2024-12-03 18:14:10] texteditor
+   31  [2024-12-03 18:14:22] sysinfo
+   32  [2024-12-03 18:14:26] performance
+   33  [2024-12-03 18:14:34] remove texteditor
+   34  [2024-12-03 18:14:41] List
+   35  [2024-12-03 18:14:47] history
+
